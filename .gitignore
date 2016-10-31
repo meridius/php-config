@@ -1,0 +1,6 @@
+/node_modules
+/neon-js-dist
+.idea
+/src/js/coffee/*.js
+/src/js/bundle.js
+/src/js/**/*.map

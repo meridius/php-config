@@ -1,0 +1,23 @@
+{
+  "name": "phpcs-config",
+  "description": "",
+  "version": "0.0.1",
+  "license": "ISC",
+  "author": "Martin Lukeš",
+  "main": "src/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "coffeeify": "^2.0.1",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "lodash.assign": "^4.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
